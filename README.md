@@ -4,7 +4,7 @@
 - **[Endnote的使用方法](https://mp.weixin.qq.com/s/Qr5mvy4rQ-wAfEcE9i4ypA)**
 # Markdown
 - **[Markdown 语法教程](https://markdown.com.cn/basic-syntax/links.html)**
-# learn python
+# Python
 - **[python training](https://unidata.github.io/python-training)**
 - **[气象家园“教程合集 | Python数据处理基础](https://mp.weixin.qq.com/s/hcA4qS2ENuIkEyOb_HdE8Q)**
 # Matlab
