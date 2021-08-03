@@ -2,6 +2,10 @@
 #
 # Endnote
 - **[Endnote Detailed usage](https://mp.weixin.qq.com/s/Qr5mvy4rQ-wAfEcE9i4ypA)**
+# Linux
+- **[Unix Bsaic Tutorial](https://www.meted.ucar.edu/ucar/unix/)**
+# Fortran
+- **[Fortran Basic Tutorial](https://www.meted.ucar.edu/ucar/fortran/)**
 # Markdown
 - **[Markdown training](https://markdown.com.cn/basic-syntax/links.html)**
 # Python
