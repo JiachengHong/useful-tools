@@ -1,5 +1,7 @@
 # useful tools in Physical Oceanography and Atmospheric Sciences
 #
+# Dev on Windows with WSL
+- **[Endnote Detailed usage](https://dowww.spencerwoo.com/)**
 # Endnote
 - **[Endnote Detailed usage](https://mp.weixin.qq.com/s/Qr5mvy4rQ-wAfEcE9i4ypA)**
 # Linux
